@@ -1,0 +1,115 @@
+:root{
+    --primary: #0b3954;
+    --light: #FF6663;
+}
+
+body{
+    overflow: hidden;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.navbar {
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05);
+    min-height: 100px;
+}
+
+.logo-C{
+    min-width: 45px;
+    max-width: 45px;
+}
+
+.bg-primary{
+    background-color: var(--primary) !important;
+}
+
+.bg-light{
+    background-color: var(--light) !important;
+}
+
+#sidebar-container{
+    min-height: 100vh;
+}
+
+#sidebar-container .menu{
+    width: 18rem;
+}
+
+.btn-search{
+    right: 5px;
+}
+
+.foto{
+    max-width: 35px;
+}
+
+#content{
+    overflow-y: auto;
+    height: 100vh;
+    padding-bottom: 5rem;
+}
+
+.card-deck{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 25px;
+}
+
+table, th, td {
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.699);
+    color: black;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    text-align: center;
+    border-spacing: 5px;
+  }
+  
+.boton-personalizado {
+
+    text-decoration:none;
+    font-weight: 600;
+    font-size: 20px;
+    color:#ffffff;
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:40px;
+    padding-right:40px;
+    background-color: #0b3954;
+    border-color: #d8d8d8;
+    border-width: 3px;
+    border-style: solid;
+    border-radius:35px;
+    }
+    .form-control{
+	font-size: 12px; 
+	border: 2px solid #FF6663; 
+	padding: 15px; 
+	border-radius: 6px; 
+	height: auto; 
+}
+.form-control:focus{
+	border: 2px solid AFF6663; 
+	outline: none; 
+	box-shadow: none; 
+}
+h4{ 
+	color: #0b3954; 
+	text-align: center; 
+}
+.tr-consultas-taitel{
+    background-color: #C67801;
+}
+.tr-consultas-main{
+    background-color: #00013A;
+}
+.tr-consultas-one{
+	background-color: #048399;
+}
+.tr-consultas-two{
+	background-color: #64E8FF;
+}

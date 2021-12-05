@@ -1,0 +1,71 @@
+.btn-large{
+width: 100%;
+}
+#txtdisplay{
+   
+    background-color: #f1faee;
+}
+#divCalculadora .form-group{
+  margin-bottom: 5px;  
+}
+#divCalculadora .col-12{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+#divCalculadora .col-3 {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#divCalculadora .col-6 {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#divCalculadora{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:274b44;
+}
+#divCalculadora1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#84B0D1;
+}
+#div2{
+width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#0f7868;
+}
+#ultima{
+    padding-bottom: 10px;
+}
+#columna{
+ background-color:#eb0027;
+}
+#imgC{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imgb{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+}
+.imgd{
+     width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+}
+#divjum{
+background: url("../images/f2.jpg");
+background-size: cover;
+}

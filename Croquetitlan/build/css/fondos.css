@@ -1,0 +1,45 @@
+#b1 {
+    background-image: url(../images/fondo1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#b2 {
+    background-image: url(../images/fondo2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#b3 {
+    background-image: url(../images/fondo3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.oscuros {
+    background: rgba(0, 0, 0, .5);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, .568);
+    color: whitesmoke;
+}
+.oscuro {
+    background: rgba(0, 0, 0, .1);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, .568);
+    color: whitesmoke;
+}
+
+.ing-style {
+    color: #5d8872;
+}
+
+.ing-style:hover {
+    background-color: #4c7ba1;
+    
+}
+.ing-style-2:hover {
+    background-color: #2aa399;
+    
+}
